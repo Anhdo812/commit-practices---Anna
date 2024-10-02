@@ -1,0 +1,15 @@
+body {
+    margin: 0
+}
+header {
+    background-color: plum;
+}
+
+main {
+    background-color: khaki;
+}
+footer {
+    background-color: cornflowerblue;
+}
+
+ul {margin: 0}
